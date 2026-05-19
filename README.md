@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @samcorrado
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+-  Hi, I’m @samcorrado
+-  I’m interested in Chemistry
+-  I’m currently learning LaTeX
 - 📫 How to reach me ..... don't
 
 <!---
